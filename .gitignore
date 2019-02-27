@@ -1,0 +1,12 @@
+# exclude everything except directory foo/bar
+build/*
+obj/*
+android-lib*/*
+.settings
+.cproject
+.project
+ssl_config.h
+
+Debug/*
+*.stackdump
+/Debug/

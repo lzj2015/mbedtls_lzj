@@ -1,0 +1,22 @@
+#ifndef AISINOSSL_CONFIG
+#define AISINOSSL_CONFIG
+
+// Optional Modules
+#cmakedefine __AES_ENABLE__
+#cmakedefine __SM4_ENABLE__
+#cmakedefine __RSA_ENABLE__
+#cmakedefine __SM2_ENABLE__
+#cmakedefine SM4_WHITEBOX_ENABLE
+
+#cmakedefine DUMMY_ROUND
+#cmakedefine DUMMY_ROUND_ENABLE 0
+#cmakedefine DEBUG
+#cmakedefine iOS_M4RI
+#cmakedefine macOS_M4RI
+#cmakedefine ANDROID_M4RI
+
+#cmakedefine ANDROID_VER
+#cmakedefine ANDROID_MK_VER
+
+
+#endif

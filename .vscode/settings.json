@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "ssl_random.h": "c",
+        "aisinossl_config.h": "c",
+        "openssl_aid.h": "c",
+        "modes_lcl.h": "c",
+        "modes.h": "c",
+        "hmac_drbg.h": "c",
+        "rsa_cloud.h": "c",
+        "sha256.h": "c",
+        "sm2.h": "c",
+        "ecp.h": "c",
+        "sm3.h": "c",
+        "bignum.h": "c",
+        "config.h": "c",
+        "string.h": "c",
+        "sm4.h": "c"
+    }
+}
